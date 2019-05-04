@@ -1,0 +1,495 @@
+#EXTM3U
+
+ #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:0,BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="CANAL ABERTO", BAND HD
+http://198.255.23.90:25461/GHJNGVYUUTR3458/TRTYGVCSDA87654/24333?
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",BAND NEWS SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*INFANTIS*",TOONCAST SD
+http://br.e-tv.xyz/Tooncast_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*PREMIERE*",PREMIERE 4 FULL HD
+http://br.e-tv.xyz/PREMIERE_4_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*PREMIERE*",PREMIERE CLUBES FULL HD
+http://br.e-tv.xyz/PREMIERE_CLUBES_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="**BAND**",BAND FULL HD
+http://br.e-tv.xyz/BANDFULLHD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*PREMIERE*",PREMIERE 5 FULL HD
+http://br.e-tv.xyz/PREMIERE_5_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",TNT SD
+http://br.e-tv.xyz/TNT_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*DOCUMENTÁRIOS*",DISCOVERY SCIENCE SD
+http://br.e-tv.xyz/Discovery_Science_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO SIGNATURE FULL HD
+http://br.e-tv.xyz/HBO_SIGNATURE_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*INFANTIS*",DISNEY XD HD
+http://br.e-tv.xyz/DISNEY_XD_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES/ SERIES",Space HD
+https://minhalista.live/channel/316083/listasiptv-online/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",CARTOON NETWORK-
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais fechado",AXN HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",EI MAXX 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CINE Y SERIES",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*INFANTIS*",TOONCAST SD
+http://br.e-tv.xyz/Tooncast_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*INFANTIS*",DISNEY XD HD
+http://br.e-tv.xyz/DISNEY_XD_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPECIAL",Cine sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",CARTOON NETWORK-
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="BRASIL",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS SD",GLOBO SP
+https://dpmia01.gcdn.co/020/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS SD",GLOBO RJ
+https://dpmia01.gcdn.co/021/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS SD",RECORD
+https://dpmia01.gcdn.co/021/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",BAND SPORTS
+https://dpmia01.gcdn.co/c015/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",ESPN
+https://dpmia01.gcdn.co/c001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",ESPN+
+https://dpmia01.gcdn.co/c003/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",ESPN BR
+https://dpmia01.gcdn.co/c002/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",ESPORTE INTERATIVO BR
+https://dpmia01.gcdn.co/045/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",FOX SPORTS
+https://dpmia01.gcdn.co/039/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",FOX SPORTS 2
+https://dpmia01.gcdn.co/c009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",SPORTV
+https://dpmia01.gcdn.co/c008/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES SD",SPORTV 3
+https://dpmia01.gcdn.co/112/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES SD",COMEDY CENTRAL
+https://dpmia01.gcdn.co/030/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES SD",GNT
+https://dpmia01.gcdn.co/065/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES SD",VIVA
+https://dpmia01.gcdn.co/001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES SD",VIVA
+https://dpmia01.gcdn.co/001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",ANIMAL PLANET
+https://dpmia01.gcdn.co/017/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",DISCOVERY CIVILIZATION
+https://dpmia01.gcdn.co/058/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",HISTORY
+https://dpmia01.gcdn.co/024/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",H2
+https://dpmia01.gcdn.co/034/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",NAT GEO WILD
+https://dpmia01.gcdn.co/082/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS SD",ANIMAL PLANET
+https://dpmia01.gcdn.co/017/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",A&E
+https://dpmia01.gcdn.co/031/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",AMC
+https://dpmia01.gcdn.co/007/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",AXN
+https://dpmia01.gcdn.co/076/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",CINEMAX
+https://dpmia01.gcdn.co/040/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",FOX
+https://dpmia01.gcdn.co/053/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",FOX PREMIUM 1
+https://dpmia01.gcdn.co/018/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",FOX PREMIUM 2
+https://dpmia01.gcdn.co/019/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",FX
+https://dpmia01.gcdn.co/099/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO
+https://dpmia01.gcdn.co/047/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO 2
+https://dpmia01.gcdn.co/048/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO FAMILY
+https://dpmia01.gcdn.co/088/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO PLUS
+https://dpmia01.gcdn.co/055/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO SIGNATURE
+https://dpmia01.gcdn.co/089/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",MAX
+https://dpmia01.gcdn.co/060/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",MAX UP
+https://dpmia01.gcdn.co/046/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",MAXPRIME
+https://dpmia01.gcdn.co/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",MEGAPIX
+https://dpmia01.gcdn.co/038/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",PARAMOUNT
+https://dpmia01.gcdn.co/004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",SONY
+https://dpmia01.gcdn.co/003/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",SPACE
+https://dpmia01.gcdn.co/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TNT
+https://dpmia01.gcdn.co/056/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",STÚDIO UNIVERSAL
+https://dpmia01.gcdn.co/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",UNIVERSAL CHANNEL
+https://dpmia01.gcdn.co/083/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",SYFY
+https://dpmia01.gcdn.co/067/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TELECINE ACTION
+https://dpmia01.gcdn.co/090/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TELECINE FUN
+https://dpmia01.gcdn.co/101/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TELECINE PIPOCA
+https://dpmia01.gcdn.co/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TELECINE PREMIUM
+https://dpmia01.gcdn.co/091/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",TELECINE TOUCH
+https://dpmia01.gcdn.co/056/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",A&E
+https://dpmia01.gcdn.co/031/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",AMC
+https://dpmia01.gcdn.co/007/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",AXN
+https://dpmia01.gcdn.co/076/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES&SERIES SD",HBO FAMILY
+https://dpmia01.gcdn.co/088/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV AO VIVO",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV AO VIVO",Rede TV RS
+http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE BRASIL®
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais  Abertos",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais de Filmes",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais  Abertos",SBT
+http://bitly.com:80/Sbt-hd
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais  Abertos",GLOBO HD
+http://s.tvmaster.net:80/estenio/1217/1603
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",AXN HD
+http://br.e-tv.xyz/AXN_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",MAX UP HD
+http://br.e-tv.xyz/Max_UP_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",TNT SERIES FULL HD
+http://br.e-tv.xyz/TNT_SERIES_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",WARNER CHANNEL FULL HD
+http://br.e-tv.xyz/WARNER_CHANNEL_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO 2 HD
+http://br.e-tv.xyz/HBO_2_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO PLUS HD
+http://br.e-tv.xyz/HBO_Plus_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO SIGNATURE FULL HD
+http://br.e-tv.xyz/HBO_SIGNATURE_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",AMC FULL HD
+http://br.e-tv.xyz/AMC_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="cine",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais Abertos",SBT HD
+https://minhalista.live/channel/520864/listasiptv-online/redirect
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TVU RECIFE
+http://150.161.93.173/hls/720/index.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",TV MOÇAMBIQUE
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w831770220_b364000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",Disney Jr
+http://85.244.70.140:7000/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",Programação do Telecine Play
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1819838770.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",DISCOVERY
+http://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",Discovery
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",13 RECORD HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO PLUS HD
+http://br.e-tv.xyz/HBO_Plus_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",TNT SD
+http://br.e-tv.xyz/TNT_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO SIGNATURE FULL HD
+http://br.e-tv.xyz/HBO_SIGNATURE_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",MAX PRIME FULL HD
+http://br.e-tv.xyz/MAX_PRIME_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO PLUS HD
+http://br.e-tv.xyz/HBO_Plus_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",TNT SD
+http://br.e-tv.xyz/TNT_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO SIGNATURE FULL HD
+http://br.e-tv.xyz/HBO_SIGNATURE_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",MAX PRIME FULL HD
+http://br.e-tv.xyz/MAX_PRIME_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",FOX PREMIUM CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",CANAL+ CINEMA
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",GLOBO HD
+http://s.tvmaster.net:80/estenio/1217/1603
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",MAX HD
+http://br.e-tv.xyz/MAX_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",WARNER CHANNEL FULL HD
+http://br.e-tv.xyz/WARNER_CHANNEL_FULL_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Band
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Record
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w905176018.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Record
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w905176018.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Record
+https://minhalista.live/channel/1687734/Viih4ever/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Record
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w905176018.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",Rede Tv
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w74613450_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",Disney Jr
+http://85.244.70.140:7000/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes",Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV ALERJ
+http://199.189.86.19:1935/live/tvc/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO CARLOS",SBT HD 1
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO CARLOS",SBT HD 2
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV FECHADA",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Cine",NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",MEGAPIX SD
+http://br.e-tv.xyz/Megapix_SD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES/ SERIES",Space HD
+https://minhalista.live/channel/316083/listasiptv-online/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ITALIA",Fox Life HD (Copyright © 2019 - TeamBlue)
+https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ITALIA",Paramount Channel HD (Copyright © 2019 - TeamBlue)
+https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais fechado",AXN HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CINE Y SERIES",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="*FILMES E SÉRIES*",HBO PLUS HD
+http://br.e-tv.xyz/HBO_Plus_HD/video.m3u8?token=cw3bU4Gg63
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
